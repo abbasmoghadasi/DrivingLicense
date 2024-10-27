@@ -8,6 +8,10 @@ These notes cover essential technical questions that examiners may ask during dr
 ### Check functionality using the green control light or by stepping out to visually confirm (ist immer dass man aussteigt und gucken geht )
 
 ## Key Lighting Functions
+![image](https://github.com/user-attachments/assets/6f8178f7-cace-49b7-87ea-d419d945ed8f)
+![image](https://github.com/user-attachments/assets/202e2b51-09bd-4669-ac6e-57c2b32478b6)
+
+
 - **Standlicht (Position Lights)**:
 ![image](https://github.com/user-attachments/assets/67c34b97-1411-4ef7-9026-34d4cdac38b2)
 
@@ -15,6 +19,8 @@ These notes cover essential technical questions that examiners may ask during dr
   - Check functionality using the green control light or by stepping out to visually confirm. 
 
 - **Abblendlicht (Low Beam)**:
+![image](https://github.com/user-attachments/assets/dfada756-ee9c-4e45-aa71-9b49bff85608)
+
   - Used for night driving and poor visibility conditions.
   - Always leave on during bad weather for safety. 
 
